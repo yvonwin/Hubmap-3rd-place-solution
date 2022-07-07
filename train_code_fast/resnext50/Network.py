@@ -1,5 +1,6 @@
 import torch.nn as nn
-import torch.tensor as Tensor
+# import torch.tensor as Tensor
+from torch import Tensor
 import torch
 from fastai.vision.all import *
 
